@@ -1,22 +1,22 @@
 # 🎉 Welcome to DESN368 CODE + DESIGN ONE!
-Travis Masingale 09/24/25
+Travis Masingale 01/16/26
 
-**Welcome to DESN368 Web Design!**  
-You're viewing the instructor's course repository(repo). This serves as your reference and source for all course materials.  
+**TRO! Welcome to DESN399 Alt Web Design!**  
+You're viewing the my course repository(repo). This serves as your reference and source for all course materials.  
 
-**Important:** You'll fork this repository to create your own personal workspace. Think of it like this:  
-- **This repo** = Course textbook (read-only, updated weekly)  
-- **Your fork** = Your notebook (where you do all your work)  
+**Important:** You'll copy this repository via template to create your own personal workspace. Think of it like this:  
+- **This repo** = Course textbook (read-only, updated as needed)  
+- **Your repok** = Your notebook (where you do all your work)  
 
-**You're in the right place!** This is the DESN368 course repository maintained by your instructor.  
+**You're in the right place!** This is the DESN399 course repository maintained by me.  
 
 **What happens next:**  
-1. Fork this repository (creating your own copy)  
-2. Your fork becomes your personal workspace  
-3. Each week, you’ll sync updates from here  
-4. By quarter’s end, your fork transforms into a portfolio  
+1. Make a copy of this repository (creating your own copy)  
+2. Your copy becomes your personal workspace  
+3. Each week, I may or may not add to my repo and have you copy contents over.  
+4. By quarter’s end, your repo transforms into a portfolio  
 
-👉 Ready to create your workspace? Click **"Fork"** in the top right! →
+👉 Ready to create your workspace? Click the green button labled **"Use this template"** in the top right! →
 
 ---
 
@@ -40,8 +40,8 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
-- **GitHub Profile:**  ⏳
-- **Workspace (Forked Repo):** (https://github.com/sicxz/DESN368-code-design-workspace) ⏳
+- **GitHub Profile:**  ⏳ [Add your github profile URL here]
+- **Workspace (Your new Repo):** (https://github.com/sicxz/DESN368-code-design-workspace) ⏳
 - **Figma:** [Add your Figma username here] ⏳
 - **CodePen:** [Add your CodePen profile URL here] ⏳
 - **LiveCode:** [Add your LiveCode profile here] ⏳
@@ -50,36 +50,18 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README  
 2. Replace the placeholder text with your actual profile information:  
-   - Change `[Add your forked repo link here]` → `https://github.com/YourUsername/DESN368-code-design-workspace`  
-   - Change `[Add your Figma username here]` → your Figma username  
+   - Change `[Add your repo link here]` → `https://github.com/YourUsername/DESN368-code-design-workspace`  
    - Change `[Add your CodePen profile URL here]` → `https://codepen.io/YourUsername`   
-   - Change `[Confirm approval status here]` → `Approved` or `Pending` for GitHub Pack  
 3. Scroll to bottom and click **"Commit changes"**  
 4. Repeat this process each time you complete a new tool setup  
 
----
-
-## 🎯 **Course Progress**
-*Check off assignments as you complete them:*  
-
-- [ ] **Week 1:** S3tup & 0nb04rd1ng  
-- [ ] **Week 2:** Th3 F1r5t T4g  
-- [ ] **Week 3:** D0cum3nt 4rch1t3ctur3  
-- [ ] **Week 4:** Th3 C4sc4d3 B3g1n5  
-- [ ] **Week 5:** F0rm5 & 1nput5  
-- [ ] **Week 6:** Fl3xb0x M45t3ry  
-- [ ] **Week 7:** Tr1but3 P4g3  
-- [ ] **Week 8:** Gr1d Sy5t3m5  
-- [ ] **Week 9:** Pr0duct L4nd1ng  
-- [ ] **Week 10:** P0rtf0l10 Sy5t3m  
-- [ ] **Week 11:** Sh1p 1t  
 
 ---
 
 ## 📁 **Repository Structure**
 Here’s what’s in your portfolio repository:
 - **`/setup/`** - 📋 Tool setup guides and verification checklist  
-- **`/week-0/`** - 📝 Week 0 assignments and projects  
+- **`/week-X/`** - 📝 Week 0 assignments and projects -- I Don't know how far we'll get here.   
 - **`/projects/`** - 🎨 Major course projects and portfolio pieces  
 - **`README.md`** - 📖 This file - your portfolio home page  
 
@@ -91,15 +73,10 @@ Here’s what’s in your portfolio repository:
 
 ### **Learning Platforms**
 - **📚 Canvas LMS** - [Grades and official submissions](https://canvas.ewu.edu)  
-- **🎨 Figma Team** - [Design projects] https://www.figma.com/team_invite/redeem/tsdGVqTT3M8AZNIYwS1sY3
-- 
-### **Practice & Reference**
-- **📖 Course Syllabus** - [Course policies and schedule](https://desn368-f25.netlify.app/syllabus/)  
   
 
 ### **Support**
 - **✉️ Instructor Email:** [tmasingale@ewu.edu](mailto:tmasingale@ewu.edu)  
-- **🏢 Office Hours:** Mon/Wed 1–2:30pm, Thurs 1:00–2p  
 - **📍 Location:** Catalyst Room 167  
 
 ---

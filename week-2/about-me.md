@@ -1,6 +1,7 @@
 # DESN368 Designer-Coder Intake
 
 ## Background & Skills
+put x's between the brackets. 
 
 **1. Major:**  
 [Your answer here]

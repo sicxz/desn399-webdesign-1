@@ -2,8 +2,8 @@
 
 ## Progress Tracker
 - [X] 🐙 GitHub Account  
-- [X] 🗂️ Workspace Setup (fork repo + README update)  
-- [ ] 🎨 Figma Education Account & Team Access  
+- [X] 🗂️ Workspace Setup (new repo from template + README update)  
+- [ ] 🎨 Figma Education Account [https://www.figma.com/education/] 
 - [ ] 💻 CodePen Account & Profile  
 - [ ] ⚡ LiveCode Profile  
 - [ ] 🎁 GitHub Student Developer Pack  
@@ -36,28 +36,7 @@ Consider adding a profile photo (helps me learn names!)
 
 ---
 
-## 🗂️ Workspace Setup (Step 2 of 5)
-
-1. Go to the course repository: [DESN368-code-design-workspace](https://github.com/sicxz/DESN368-code-design-workspace)  
-2. Click **Fork** (top right) → this creates your personal copy.  
-3. In your forked repo:  
-   - Edit `README.md` and update your **My Toolkit** section with links as you complete each tool setup.  
-   - Commit your changes.  
-
----
-
-## 🎨 Figma Setup (Step 3 of 5)
-
-1. Apply for Figma Education: [https://www.figma.com/education/apply](https://www.figma.com/education/apply)  
-   - Use your **@ewu.edu** email.  
-   - Upload EWU ID + EagleNet screenshot.  
-2. Join our team: [Figma Team Invite](https://www.figma.com/team_invite/redeem/0hBGYGZVHWrikEI5GB0Y4F)  
-   - Team password: `spring25` (if prompted).  
-3. Update your README with your Figma username.  
-
----
-
-## 💻 CodePen Setup (Step 4 of 5)
+## 💻 CodePen Setup (Step 4 of 5) // You've already done this
 
 1. Create an account: [https://codepen.io/accounts/signup](https://codepen.io/accounts/signup)  
 2. Choose a professional username.  
@@ -77,7 +56,7 @@ Consider adding a profile photo (helps me learn names!)
 
 ## 🔄 Complete Setup Verification (Final Step)
 
-1. Update your forked repo `README.md` → **My Toolkit** section:  
+1. Update your repo `README.md` → **My Toolkit** section:  
    - GitHub repo URL  
    - Figma username  
    - CodePen URL  
@@ -90,4 +69,3 @@ Consider adding a profile photo (helps me learn names!)
 ## 🆘 Need Help?
 
 - **Email:** tmasingale@ewu.edu  
-- **Office Hours:** Mon/Wed 1–2pm, Tues/Thurs 12:30–1:30  
