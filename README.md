@@ -63,6 +63,7 @@ Here’s what’s in your portfolio repository:
 - **`/setup/`** - 📋 Tool setup guides and verification checklist  
 - **`/week-X/`** - 📝 Week 0 assignments and projects -- I Don't know how far we'll get here.   
 - **`/projects/`** - 🎨 Major course projects and portfolio pieces  
+- **`template.html`** - 📄 HTML template to start new projects  
 - **`README.md`** - 📖 This file - your portfolio home page  
 
 ---
